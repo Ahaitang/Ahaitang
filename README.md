@@ -1,6 +1,7 @@
 ## Hi there 👋
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahaitang&layout=compact&theme=tokyonight)
-
+## Contact me! 📧
+- You can contact me through my education email: zikangj@stu.ahtcm.edu.cn
 <!--
 **Ahaitang/Ahaitang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
